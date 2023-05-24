@@ -1,6 +1,7 @@
 {
   "name": "JATE",
   "scripts": {
+    "heroku-prebuild": "npm install --dev",
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
@@ -24,7 +25,6 @@
     "workbox-webpack-plugin": "^6.2.4"
   },
   "dependencies": {
-    "code-mirror-themes": "^1.0.0",
     "idb": "^6.1.2"
   }
 }
