@@ -2,10 +2,9 @@
 
 [Navigate to the website](https://lerobles-text-editor.herokuapp.com/)
 
-![Local app screenshot](/lerobles-text-editor/images/Screenshot.jpg)
+![Local app screenshot](images/Screenshot.jpg)
 
-![website screenshot](/lerobles-text-editor/images/application-console-view.jpg)
-
+![website screenshot](images/application-console-view.jpg)
 
 Jate is a text editor that runs in the browser. It features various data persistence techniques to ensure redundancy in case any of the options are not supported by the browser. Additionally, the application is designed to function offline. You also have the option to download and run the application locally on your machine.
 
