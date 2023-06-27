@@ -36,3 +36,9 @@ Jate is designed to provide seamless offline functionality. Once you've accessed
 ## Download and Local Execution
 
 For added convenience and flexibility, you have the option to download the Jate application and run it directly on your local machine. This allows you to use the text editor offline or in situations where accessing the web version is not feasible. Simply download the application package and follow the provided instructions to execute it on your machine.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- WebPack
